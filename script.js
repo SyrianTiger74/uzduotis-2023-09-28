@@ -238,6 +238,7 @@ plus5Button.addEventListener('click', function () {
 
 })
 
+
 addGrade.addEventListener('click', function () {
     let listedGrade = document.createElement('li')
     listedGrade.textContent = num
